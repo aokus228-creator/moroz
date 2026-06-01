@@ -1,4 +1,4 @@
 # football-frontend
 Football website frontend in html,css and js
 # site-link
-file:///C:/Users/%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9/Desktop/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0/football-frontend/index.html
+file:///C:/Users//football-frontend/index.html
